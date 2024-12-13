@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Ahmad-Mujtaba0
+-  I’m currently study in BSIT Program.
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects
